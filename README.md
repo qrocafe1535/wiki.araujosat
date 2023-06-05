@@ -1,4 +1,4 @@
-![imagem](/images/logo.png)
+![imagem](/images/logo-small.png)
 
 
 # Bem vindo a Wiki Araujosat
